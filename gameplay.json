@@ -1,0 +1,119 @@
+{
+  "players": [
+    {
+      "name": "Tester 1",
+      "surname": "Tester 1",
+      "relation": 1,
+      "id": "1"
+    },
+    {
+      "name": "Tester 2",
+      "surname": "Tester 2",
+      "relation": 1,
+      "id": "2"
+    },
+    {
+      "name": "Tester 3",
+      "surname": "Tester 3",
+      "relation": 1,
+      "id": "d9fd"
+    },
+    {
+      "name": "Tester 4",
+      "surname": "Tester 4",
+      "relation": 2,
+      "id": "f963"
+    },
+    {
+      "name": "Tester 5",
+      "surname": "Tester 5",
+      "relation": 2,
+      "id": "d088"
+    }
+  ],
+  "teams": [
+    {
+      "nameTeams": "Team_1",
+      "year": 2021,
+      "location": "wawa",
+      "teamPlayers": 1,
+      "playerSelect": "",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nameTeams": "Team_2",
+      "year": 2021,
+      "location": "lodz",
+      "teamPlayers": 2
+    }
+  ],
+  "games": [
+    {
+      "gameDate": "2024-08-22",
+      "titleOfTheGame": "liga",
+      "placeOfGame": "PL",
+      "timeOfDuration": 95,
+      "resultA": 1,
+      "relationsGamesA": 1,
+      "resultB": 4,
+      "relationsGamesB": 2,
+      "id": "45ee"
+    },
+    {
+      "id": "df1f",
+      "gameDate": "2024-08-21",
+      "titleOfTheGame": "Test",
+      "placeOfGame": "PL",
+      "timeOfDuration": 90,
+      "resultA": 2,
+      "relationsGamesA": 1,
+      "resultB": 2,
+      "relationsGamesB": 2
+    },
+    {
+      "id": "d921",
+      "gameDate": "2024-08-20",
+      "titleOfTheGame": "Test2",
+      "placeOfGame": "PL",
+      "timeOfDuration": 90,
+      "resultA": 1,
+      "relationsGamesA": 1,
+      "resultB": 2,
+      "relationsGamesB": 2
+    },
+    {
+      "gameDate": "2024-08-21",
+      "titleOfTheGame": "Test3",
+      "placeOfGame": "PL",
+      "timeOfDuration": 90,
+      "resultA": 1,
+      "relationsGamesA": 1,
+      "resultB": 3,
+      "relationsGamesB": 2,
+      "id": "67fc"
+    },
+    {
+      "id": "40ad",
+      "gameDate": "2024-08-16",
+      "titleOfTheGame": "Test4",
+      "placeOfGame": "PL",
+      "timeOfDuration": 90,
+      "resultA": 1,
+      "relationsGamesA": 1,
+      "resultB": 1,
+      "relationsGamesB": 2
+    },
+    {
+      "id": "67db",
+      "gameDate": "2024-08-26",
+      "titleOfTheGame": "Test5",
+      "placeOfGame": "PL",
+      "timeOfDuration": 90,
+      "resultA": 2,
+      "relationsGamesA": 1,
+      "resultB": 1,
+      "relationsGamesB": 1
+    }
+  ]
+}
